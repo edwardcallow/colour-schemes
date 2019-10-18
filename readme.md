@@ -1,3 +1,3 @@
-# Callow colour schemes website
+# colour.ecal.uk
 
-colour.edwardcallow.co.uk
+Internal colour schemes website.
